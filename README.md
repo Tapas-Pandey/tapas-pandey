@@ -1,6 +1,13 @@
-## Hi there! 👋
+![MasterHead](https://github.com/tapas-pandey/tapas-pandey/blob/main/_Pixie_%20Stream%20Graphics.gif)
 
-I'm Tapas Pandey, a passionate developer who loves creating innovative applications and exploring new technologies. Let's build something amazing together!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=9061ed&center=true&random=false&width=535&lines=Hi%2C+I+am+Tapas+Pandey" alt="Typing SVG" />
+  </a>
+</h1>
+
+
+## I'm Tapas Pandey, a passionate developer who loves creating innovative applications and exploring new technologies. Let's build something amazing together!
 
 ## About Me
 
